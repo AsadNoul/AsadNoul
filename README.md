@@ -1,43 +1,93 @@
-# Web Developer & Hacker README 🔨👨‍💻
+<h1 align="center">Hi there 👋, I'm Asad Ali Naul</h1>
+<h3 align="center">🚀 Full-Stack Marketer | App Developer | Lead Generation Expert</h3>
 
-## Introduction
+---
 
-Welcome to the world of web development and hacking! This README serves as a guide for those who seek to create and break digital systems. 💻🔒🔓
+### 💼 About Me
+<p align="center">
+  <a href="https://asadalinaul.com" target="_blank"><img src="https://img.shields.io/badge/Visit Portfolio-000000?style=for-the-badge&logo=Google-Chrome&logoColor=white" /></a>
+  <a href="mailto:asad@asadalinaul.com"><img src="https://img.shields.io/badge/Email Me-0078D4?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+I'm a **Results-Driven Digital Marketing Manager** with 6+ years of experience in:
 
-## Tools
+- 📱 **App Development** — Web & Mobile Apps using modern frameworks.
+- 💰 **Lead Generation** — Generated 10,000+ leads across iGaming, real estate, and e-commerce.
+- 🎯 **Performance Marketing** — ROI-focused campaigns on Meta, Google, TikTok & more.
+- 🌐 **WordPress & SEO** — Built & optimized 100+ WordPress sites for speed, UX, and ranking.
+- 📊 **Analytics & Reporting** — Google Analytics, GTM, Meta Pixel, Power BI & Data Studio.
+- 🤖 **AI & Automation Tools** — Leveraging ChatGPT, FinalRound, Claude, Make & n8n for automation.
+- 🧠 **Strategic Planning** — Scaled campaigns to $100k+ budgets with 3x ROAS.
+- 🏡 **Real Estate Campaigns** — Worked with top UAE developers like **Damac**, **Binghatti**, and **Sobha**.
 
-### Web Development Tools
+---
 
-* [Visual Studio Code](https://code.visualstudio.com/) - The 🔥 hottest 🔥 code editor with built-in support for debugging, Git integration, and extensions for various languages and frameworks.
-* [React](https://reactjs.org/) - A powerful JavaScript library for building user interfaces.
-* [Node.js](https://nodejs.org/) - A JavaScript runtime built on Chrome's V8 JavaScript engine that enables server-side JavaScript.
-* [Express](https://expressjs.com/) - A popular Node.js web application framework that simplifies the development of server-side applications.
-* [MongoDB](https://www.mongodb.com/) - A document-oriented NoSQL database that provides high performance, high availability, and easy scalability.
+### 🧰 Tech & Tools I Use
 
-### Hacking Tools
+![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
+![Google Ads](https://img.shields.io/badge/Google%20Ads-4285F4?style=for-the-badge&logo=googleads)
+![Meta Ads](https://img.shields.io/badge/Meta%20Ads-1877F2?style=for-the-badge&logo=facebook)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi)
+![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma)
+![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier)
+![n8n](https://img.shields.io/badge/n8n-EF4E4E?style=for-the-badge&logo=n8n)
 
-* [Kali Linux](https://www.kali.org/) - The 💀 deadliest 💀 Linux distribution that includes numerous hacking tools and is designed for penetration testing, digital forensics, and reverse engineering.
-* [Metasploit](https://www.metasploit.com/) - A penetration testing framework that provides various tools and techniques for exploiting vulnerabilities in systems.
-* [Wireshark](https://www.wireshark.org/) - A network protocol analyzer that allows you to capture and inspect network traffic like a true 🕵️‍♂️ spy 🕵️‍♀️.
-* [Burp Suite](https://portswigger.net/burp) - A web application security testing tool that can intercept, modify, and replay HTTP/S traffic like a 💪 boss 💪.
-* [Nmap](https://nmap.org/) - A network exploration and security auditing tool that can be used to discover hosts and services on a network.
+---
 
-## Resources
+### 📈 What I Bring to the Table
 
-### Web Development Resources
+- 🔥 Scaled ad campaigns across search, display, and social media.
+- 💡 Built automated lead funnels using Make, n8n & Meta/Google integrations.
+- 📱 Deployed mobile-friendly web apps with high conversion landing pages.
+- 📝 Expert in content marketing, ad copy, and visual strategy.
+- 💬 Collaborated with cross-functional teams including devs, designers, and analysts.
 
-* [MDN Web Docs](https://developer.mozilla.org/en-US/) - A comprehensive resource for web developers that includes documentation on HTML, CSS, JavaScript, and more.
-* [Stack Overflow](https://stackoverflow.com/) - A community-driven question and answer website for programming-related topics.
-* [GitHub](https://github.com/) - A popular platform for hosting and collaborating on code repositories.
-* [W3Schools](https://www.w3schools.com/) - A web development resource that includes tutorials and references on various web technologies.
+---
 
-### Hacking Resources
+### 📫 Let's Connect
 
-* [HackTheBox](https://www.hackthebox.eu/) - A platform for testing and advancing hacking skills through various challenges and scenarios. Enter at your own risk. ⚠️
-* [OWASP](https://owasp.org/) - The Open Web Application Security Project is a non-profit organization dedicated to improving software security. Don't mess with them. 🔒👀
-* [Exploit Database](https://www.exploit-db.com/) - A collection of exploits and vulnerable software that can be used for testing and learning. Use with caution. ⚠️
-* [HackerOne](https://www.hackerone.com/) - A vulnerability coordination and bug bounty platform that connects businesses with security researchers. Join the dark side. 🖥️👿
+- 🌍 Portfolio/Website: [Portfolio](https://asadalinaul.com)
+- 📧 Email: [My mail](mailto:asadalibscs20@gmail.com)
+- 🐦 Twitter: [mxsports5](https://twitter.com/mxsports5)
+- 💼 LinkedIn: [CHECK HERE](https://linkedin.com/in/asad-ali-naul)
 
-## Conclusion
+---
+### 📊 GitHub Stats
 
-This README provides a list of tools and resources that can be useful for both web developers and hackers. Use them wisely and at your own risk. Remember, with great power comes great responsibility. 💪
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AsadNoul&show_icons=true&theme=radical" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsadNoul&layout=compact&theme=radical" height="150"/>
+</p>
+
+---
+
+### 🏆 Achievements
+
+- 📥 10,000+ FTDs in iGaming vertical
+- 🏡 Generated 500+ real estate leads/month with CPL < 80 AED
+- 📈 Achieved 3X ROAS in real estate & fintech sectors
+- 🖥️ Built 100+ SEO-optimized landing pages
+- 🚀 Created 6 private/public tools in the last 2 months
+
+---
+
+### 📚 Certifications
+
+- 🥇 Google Ads – Search & Display
+- 🥇 Meta Blueprint – Media Buying & Planning
+- 🥇 HubSpot Content Marketing
+- 🥇 GA4 + Tag Manager Advanced
+
+---
+
+### 🎉 Fun Facts
+
+- 💬 Love building marketing tools using AI
+- 🎯 Obsessed with conversion rate optimization & UI/UX
+- 🧩 Creating AI-based Chrome extensions & voice agents
+
+---
+> 🚀 *Always learning. Always building. Always marketing.*
+
