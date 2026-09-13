@@ -1,93 +1,254 @@
-<h1 align="center">Hi there 👋, I'm Asad Ali Naul</h1>
-<h3 align="center">🚀 Full-Stack Marketer | App Developer | Lead Generation Expert</h3>
 
----
-
-### 💼 About Me
+<h1 align="center">Hi 👋, I'm Asad Ali Naul</h1>
+<h3 align="center">Growth & Performance Marketer • AI App Builder • Automation & Product Development</h3>
 <p align="center">
-  <a href="https://asadalinaul.com" target="_blank"><img src="https://img.shields.io/badge/Visit Portfolio-000000?style=for-the-badge&logo=Google-Chrome&logoColor=white" /></a>
-  <a href="mailto:asad@asadalinaul.com"><img src="https://img.shields.io/badge/Email Me-0078D4?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+I build, market, automate, and scale digital products — from acquisition strategy to the actual product.
 </p>
-I'm a **Results-Driven Digital Marketing Manager** with 6+ years of experience in:
-
-- 📱 **App Development** — Web & Mobile Apps using modern frameworks.
-- 💰 **Lead Generation** — Generated 10,000+ leads across iGaming, real estate, and e-commerce.
-- 🎯 **Performance Marketing** — ROI-focused campaigns on Meta, Google, TikTok & more.
-- 🌐 **WordPress & SEO** — Built & optimized 100+ WordPress sites for speed, UX, and ranking.
-- 📊 **Analytics & Reporting** — Google Analytics, GTM, Meta Pixel, Power BI & Data Studio.
-- 🤖 **AI & Automation Tools** — Leveraging ChatGPT, FinalRound, Claude, Make & n8n for automation.
-- 🧠 **Strategic Planning** — Scaled campaigns to $100k+ budgets with 3x ROAS.
-- 🏡 **Real Estate Campaigns** — Worked with top UAE developers like **Damac**, **Binghatti**, and **Sobha**.
-
----
-
-### 🧰 Tech & Tools I Use
-
-![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
-![Google Ads](https://img.shields.io/badge/Google%20Ads-4285F4?style=for-the-badge&logo=googleads)
-![Meta Ads](https://img.shields.io/badge/Meta%20Ads-1877F2?style=for-the-badge&logo=facebook)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi)
-![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma)
-![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier)
-![n8n](https://img.shields.io/badge/n8n-EF4E4E?style=for-the-badge&logo=n8n)
-
----
-
-### 📈 What I Bring to the Table
-
-- 🔥 Scaled ad campaigns across search, display, and social media.
-- 💡 Built automated lead funnels using Make, n8n & Meta/Google integrations.
-- 📱 Deployed mobile-friendly web apps with high conversion landing pages.
-- 📝 Expert in content marketing, ad copy, and visual strategy.
-- 💬 Collaborated with cross-functional teams including devs, designers, and analysts.
-
----
-
-### 📫 Let's Connect
-
-- 🌍 Portfolio/Website: [Portfolio](https://asadalinaul.com)
-- 📧 Email: [My mail](mailto:asadalibscs20@gmail.com)
-- 🐦 Twitter: [mxsports5](https://twitter.com/mxsports5)
-- 💼 LinkedIn: [CHECK HERE](https://linkedin.com/in/asad-ali-naul)
-
----
-### 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AsadNoul&show_icons=true&theme=radical" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsadNoul&layout=compact&theme=radical" height="150"/>
+  <a href="https://asadalinaul.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+  <a href="mailto:asad@asadalinaul.com">
+    <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/asad-ali-naul" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
----
+⸻
 
-### 🏆 Achievements
+👨‍💻 About Me
 
-- 📥 10,000+ FTDs in iGaming vertical
-- 🏡 Generated 500+ real estate leads/month with CPL < 80 AED
-- 📈 Achieved 3X ROAS in real estate & fintech sectors
-- 🖥️ Built 100+ SEO-optimized landing pages
-- 🚀 Created 6 private/public tools in the last 2 months
+I’m a Growth & Performance Marketing professional and product builder with 6+ years of experience across performance marketing, demand generation, analytics, automation, web development, and digital product development.
 
----
+My work sits at the intersection of:
 
-### 📚 Certifications
+Marketing × Product × AI × Automation × Data
 
-- 🥇 Google Ads – Search & Display
-- 🥇 Meta Blueprint – Media Buying & Planning
-- 🥇 HubSpot Content Marketing
-- 🥇 GA4 + Tag Manager Advanced
+Instead of only running campaigns, I enjoy building the systems behind them — landing pages, tracking infrastructure, dashboards, automation workflows, AI agents, internal tools, and full-stack applications.
 
----
+What I Work On
 
-### 🎉 Fun Facts
+* 🎯 Performance & Growth Marketing — Google Ads, Meta Ads, TikTok Ads, paid acquisition and conversion optimization.
+* 📈 Demand & Lead Generation — Acquisition funnels across fintech, iGaming, real estate, SaaS and e-commerce.
+* 🤖 AI Applications — AI-powered tools, assistants, agents and workflow automation.
+* ⚡ Marketing Automation — n8n, Make, APIs, webhooks, CRM workflows and automated reporting.
+* 📱 Web & Mobile Products — Building modern applications, dashboards and conversion-focused experiences.
+* 📊 Analytics & Tracking — GA4, GTM, Meta CAPI, pixels, attribution and performance dashboards.
+* 🌐 Landing Pages & CRO — High-converting websites and acquisition funnels.
+* 🧠 Growth Strategy — Connecting product, acquisition, retention and monetization.
 
-- 💬 Love building marketing tools using AI
-- 🎯 Obsessed with conversion rate optimization & UI/UX
-- 🧩 Creating AI-based Chrome extensions & voice agents
+⸻
 
----
-> 🚀 *Always learning. Always building. Always marketing.*
+🚀 What I’m Building
 
+I’m increasingly focused on building AI-powered SaaS products, trading technology, marketing utilities and automation systems.
+
+📊 ANC Trader
+
+AI-assisted trading ecosystem focused on helping traders improve how they analyze markets, manage trades and interact with trading tools.
+
+Product areas include:
+
+* Trading signals
+* Portfolio management
+* Exchange connectivity
+* Trader onboarding
+* Market education
+* Trading dashboards
+* AI-assisted analysis
+* Community & automation systems
+
+Trading FinTech AI Automation Mobile App
+
+⸻
+
+🧹 ClearMeta
+
+A lightweight privacy utility designed to remove hidden metadata from AI-generated and digital images.
+
+Core idea:
+
+Upload → Clean Metadata → Export Clean File
+
+Built around simplicity, privacy and a clean utility-first experience.
+
+Privacy Metadata Utility Web App
+
+⸻
+
+🤖 AI Community Agent System
+
+Built multi-agent community automation systems for trading communities using n8n + LLMs + Discord/Telegram integrations.
+
+The system supports specialized AI personas for areas such as:
+
+* Bitcoin & Ethereum market structure
+* Futures trading
+* Altcoin momentum
+* Forex & Gold
+* General trading education
+
+Agents can coordinate conversations, respond to community activity and operate through automated workflows.
+
+n8n LLM Discord Telegram Automation
+
+⸻
+
+📈 Marketing & Attribution Systems
+
+Building acquisition and attribution infrastructure capable of tracking users across marketing channels.
+
+Includes:
+
+* UTM attribution
+* Google Ads click tracking
+* Meta click tracking
+* Signup source attribution
+* Funnel tracking
+* Conversion reporting
+* Automated dashboards
+* CRM integrations
+
+GA4 GTM Google Ads Meta CRM Analytics
+
+⸻
+
+🛠️ Private & Public Tools
+
+I’ve also been actively developing small SaaS products, internal utilities, marketing tools, AI experiments and automation systems designed to solve specific operational problems.
+
+My approach is simple:
+
+Find a repetitive or expensive problem → automate it → turn it into a usable product.
+
+⸻
+
+💼 Marketing Experience
+
+Performance Marketing
+
+Managed and scaled acquisition campaigns across:
+
+* Google Search
+* Performance Max
+* Display
+* YouTube
+* Meta Ads
+* TikTok Ads
+* Snapchat
+* LinkedIn
+* Programmatic advertising
+
+Experience across:
+
+FinTech • CFD/Forex • Crypto • iGaming • UAE Real Estate • E-commerce
+
+⸻
+
+🏡 UAE Real Estate
+
+Worked on acquisition campaigns involving major UAE real-estate brands and developers, including:
+
+Damac • Binghatti • Sobha
+
+Focused on:
+
+* Qualified lead generation
+* Landing-page optimization
+* Audience strategy
+* Search acquisition
+* Paid social
+* Conversion tracking
+* Lead quality optimization
+
+⸻
+
+🧰 Technology & Marketing Stack
+
+Development
+
+AI & Automation
+
+Marketing & Analytics
+
+Product & Design
+
+⸻
+
+🏆 Selected Results
+
+* 📥 Generated 10,000+ FTDs across iGaming campaigns
+* 🏡 Generated 500+ real-estate leads/month
+* 💰 Achieved CPL below AED 80 on selected real-estate campaigns
+* 📈 Achieved up to 3× ROAS across performance campaigns
+* 🖥️ Built and optimized 100+ landing pages / WordPress experiences
+* 🤖 Built AI and automation workflows using n8n, APIs and LLMs
+* 🚀 Built multiple private/public digital tools and product experiments
+* 📊 Implemented conversion tracking and attribution systems across multiple acquisition channels
+
+⸻
+
+🧠 How I Think About Growth
+
+Traffic
+   ↓
+Landing Experience
+   ↓
+Tracking & Attribution
+   ↓
+Conversion
+   ↓
+CRM / Automation
+   ↓
+Retention
+   ↓
+Revenue
+   ↓
+Data
+   ↓
+Optimization
+
+Great marketing isn’t only about buying traffic.
+
+It’s about building the complete system that turns attention into measurable revenue.
+
+⸻
+
+📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AsadNoul&show_icons=true&theme=transparent&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsadNoul&layout=compact&theme=transparent&hide_border=true" height="165"/>
+</p>
+
+⸻
+
+📚 Certifications
+
+* 🥇 Google Ads — Search & Display
+* 🥇 Meta Blueprint — Media Buying & Planning
+* 🥇 HubSpot Content Marketing
+* 🥇 Google Analytics 4 & Google Tag Manager
+
+⸻
+
+🌍 Connect With Me
+
+🌐 Portfolio: asadalinaul.com⁠￼
+
+💼 LinkedIn: Asad Ali Naul⁠￼
+
+🐦 X / Twitter: @mxsports5⁠￼
+
+📧 Email: asad@asadalinaul.com⁠￼
+
+⸻
+
+<p align="center">
+  <b>🚀 Build. Market. Automate. Scale.</b>
+</p>
+<p align="center">
+From an idea → to a product → to users → to measurable growth.
+</p>
