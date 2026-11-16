@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/header.svg" width="100%" alt="Asad Ali Naul — AI Automation · AI Skills Builder · Crypto Signals"/>
+  <img src="./header.svg" width="100%" alt="Asad Ali Naul — AI Automation · AI Skills Builder · Crypto Signals"/>
 </p>
 
 <p align="center">
@@ -10,10 +10,10 @@
 </p>
 
 <p align="center">
-  <img src="./assets/stats.svg" width="100%"/>
+  <img src="./stats.svg" width="100%"/>
 </p>
 
-<img src="./assets/divider.svg" width="100%"/>
+<img src="./divider.svg" width="100%"/>
 
 ## 👋 About Me
 
@@ -32,12 +32,12 @@ superpower:  "Growth marketer who can actually ship the code"
 currently:   Building AI agents & Claude Skills that run whole workflows end-to-end
 ```
 
-<img src="./assets/divider.svg" width="100%"/>
+<img src="./divider.svg" width="100%"/>
 
 ## 🛰️ What I Do
 
 <p align="center">
-  <img src="./assets/services.svg" width="100%"/>
+  <img src="./services.svg" width="100%"/>
 </p>
 
 <table>
@@ -84,15 +84,15 @@ I build reusable AI "skills" — packaged know-how that agents can run on demand
 </tr>
 </table>
 
-<img src="./assets/divider.svg" width="100%"/>
+<img src="./divider.svg" width="100%"/>
 
 ## ⚙️ Automations in Action
 
 <p align="center">
-  <img src="./assets/terminal.svg" width="100%"/>
+  <img src="./terminal.svg" width="100%"/>
 </p>
 
-<img src="./assets/divider.svg" width="100%"/>
+<img src="./divider.svg" width="100%"/>
 
 ## 🚀 Featured Builds
 
@@ -113,7 +113,7 @@ I build reusable AI "skills" — packaged know-how that agents can run on demand
 | 🎓 | **IIT Trading Academy** | Trading academy site + multilingual MassLiveTrades landing page | WordPress |
 | 📺 | **TV Home Launcher** | Ad-free custom home screen for Samsung Tizen TVs | Tizen · JS |
 
-<img src="./assets/divider.svg" width="100%"/>
+<img src="./divider.svg" width="100%"/>
 
 ## 📣 Growth & Paid Media
 
@@ -146,7 +146,7 @@ I build reusable AI "skills" — packaged know-how that agents can run on demand
 </tr>
 </table>
 
-<img src="./assets/divider.svg" width="100%"/>
+<img src="./divider.svg" width="100%"/>
 
 ## 🧰 Tech Stack
 
@@ -170,7 +170,7 @@ I build reusable AI "skills" — packaged know-how that agents can run on demand
   <img src="https://img.shields.io/badge/Semrush-FF642D?style=for-the-badge&logo=semrush&logoColor=white"/>
 </p>
 
-<img src="./assets/divider.svg" width="100%"/>
+<img src="./divider.svg" width="100%"/>
 
 ## 🔥 GitHub Activity
 
@@ -185,7 +185,7 @@ I build reusable AI "skills" — packaged know-how that agents can run on demand
   </picture>
 </p>
 
-<img src="./assets/divider.svg" width="100%"/>
+<img src="./divider.svg" width="100%"/>
 
 ## 🤝 Work With Me
 
@@ -207,5 +207,5 @@ I build reusable AI "skills" — packaged know-how that agents can run on demand
 <p align="center"><sub>⚠️ Signals & indicators are shared for education — not financial advice. Trade responsibly.</sub></p>
 
 <p align="center">
-  <img src="./assets/footer.svg" width="100%"/>
+  <img src="./footer.svg" width="100%"/>
 </p>
