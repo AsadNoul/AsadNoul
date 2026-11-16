@@ -1,0 +1,19 @@
+name: Generate snake
+on:
+  schedule: [{cron: "0 */12 * * *"}]
+  workflow_dispatch:
+  push: {branches: [main]}
+permissions: {contents: write}
+jobs:
+  snake:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark&color_snake=#00d4ff&color_dots=#161b22,#3b1d6e,#5a2bb0,#7f00ff,#00d4ff
+      - uses: crazy-max/ghaction-github-pages@v4
+        with: {target_branch: output, build_dir: dist}
+        env: {GITHUB_TOKEN: "${{ secrets.GITHUB_TOKEN }}"}
