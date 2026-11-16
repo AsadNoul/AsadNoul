@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="150" viewBox="0 0 1200 150">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#7f00ff"/><stop offset="1" stop-color="#00d4ff"/></linearGradient>
+    <style>
+      .t{font-family:'Segoe UI',Inter,Arial,sans-serif}.m{font-family:'JetBrains Mono',Consolas,monospace}
+      .s{animation:pop .8s ease-out both}.s2{animation-delay:.15s}.s3{animation-delay:.3s}.s4{animation-delay:.45s}
+      @keyframes pop{from{opacity:0;transform:scale(.9)}to{opacity:1;transform:none}}
+    </style>
+  </defs>
+  <rect x="5" y="5" width="1190" height="140" rx="18" fill="#0b0a1c" stroke="url(#g)" stroke-opacity=".6"/>
+  <g class="t" text-anchor="middle">
+    <g class="s"><text x="155" y="78" font-size="46" font-weight="800" fill="url(#g)">8+</text><text x="155" y="110" class="m" font-size="14" fill="#9aa0c8">YEARS TRADING CRYPTO</text></g>
+    <g class="s s2"><text x="453" y="78" font-size="46" font-weight="800" fill="url(#g)">10+</text><text x="453" y="110" class="m" font-size="14" fill="#9aa0c8">BOTS &amp; AUTOMATIONS SHIPPED</text></g>
+    <g class="s s3"><text x="751" y="78" font-size="46" font-weight="800" fill="url(#g)">5+</text><text x="751" y="110" class="m" font-size="14" fill="#9aa0c8">CUSTOM TRADING INDICATORS</text></g>
+    <g class="s s4"><text x="1047" y="78" font-size="46" font-weight="800" fill="url(#g)">3</text><text x="1047" y="110" class="m" font-size="14" fill="#9aa0c8">KOL MARKETS · IN · PK · BR</text></g>
+  </g>
+  <g stroke="#ffffff" stroke-opacity=".08"><line x1="304" y1="35" x2="304" y2="115"/><line x1="602" y1="35" x2="602" y2="115"/><line x1="900" y1="35" x2="900" y2="115"/></g>
+</svg>

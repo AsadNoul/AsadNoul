@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="160" viewBox="0 0 1200 160">
+  <defs><linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#00d4ff"/><stop offset=".5" stop-color="#7f00ff"/><stop offset="1" stop-color="#0f0c29"/></linearGradient>
+  <style>.t{font-family:'Segoe UI',Inter,Arial,sans-serif}</style></defs>
+  <path fill="url(#g)" opacity=".5"><animate attributeName="d" dur="8s" repeatCount="indefinite" values="M0 90 Q300 40 600 90 T1200 90 V160 H0Z;M0 90 Q300 140 600 90 T1200 90 V160 H0Z;M0 90 Q300 40 600 90 T1200 90 V160 H0Z"/></path>
+  <path fill="url(#g)"><animate attributeName="d" dur="6s" repeatCount="indefinite" values="M0 110 Q300 150 600 110 T1200 110 V160 H0Z;M0 110 Q300 70 600 110 T1200 110 V160 H0Z;M0 110 Q300 150 600 110 T1200 110 V160 H0Z"/></path>
+  <text x="600" y="50" text-anchor="middle" class="t" font-size="20" font-weight="700" fill="#cfd3ff">Ship it · Measure it · Scale it</text>
+</svg>

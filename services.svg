@@ -1,0 +1,84 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="330" viewBox="0 0 1200 330">
+  <defs>
+    <linearGradient id="g1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#7f00ff"/><stop offset="1" stop-color="#e100ff"/></linearGradient>
+    <linearGradient id="g2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#00d4ff"/><stop offset="1" stop-color="#2f6bff"/></linearGradient>
+    <linearGradient id="g3" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#00e5a0"/><stop offset="1" stop-color="#f7c948"/></linearGradient>
+    <linearGradient id="card" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#14122e"/><stop offset="1" stop-color="#0a0918"/></linearGradient>
+    <filter id="glow"><feGaussianBlur stdDeviation="14"/></filter>
+    <style>
+      .t{font-family:'Segoe UI',Inter,'Helvetica Neue',Arial,sans-serif}
+      .m{font-family:'JetBrains Mono',Consolas,monospace}
+      .card{animation:up .9s ease-out both}
+      .d2{animation-delay:.2s}.d3{animation-delay:.4s}
+      @keyframes up{from{opacity:0;transform:translateY(24px)}to{opacity:1;transform:none}}
+      .spin{animation:spin 8s linear infinite;transform-box:fill-box;transform-origin:center}
+      @keyframes spin{to{transform:rotate(360deg)}}
+      .pulse{animation:pulse 2.4s ease-in-out infinite;transform-box:fill-box;transform-origin:center}
+      @keyframes pulse{0%,100%{transform:scale(1);opacity:.9}50%{transform:scale(1.15);opacity:.5}}
+      .border{stroke-dasharray:90 1270;animation:run 6s linear infinite}
+      @keyframes run{to{stroke-dashoffset:-1360}}
+    </style>
+  </defs>
+
+  <!-- CARD 1 -->
+  <g class="card">
+    <circle cx="130" cy="90" r="50" fill="#7f00ff" opacity=".35" filter="url(#glow)"/>
+    <rect x="10" y="10" width="370" height="310" rx="20" fill="url(#card)" stroke="#ffffff" stroke-opacity=".08"/>
+    <rect x="10" y="10" width="370" height="310" rx="20" fill="none" stroke="url(#g1)" stroke-width="2" class="border"/>
+    <g transform="translate(70 80)">
+      <circle r="34" fill="none" stroke="url(#g1)" stroke-width="2" stroke-dasharray="8 6" class="spin"/>
+      <rect x="-16" y="-14" width="32" height="26" rx="6" fill="url(#g1)"/>
+      <circle cx="-7" cy="-2" r="3.5" fill="#0a0918"/><circle cx="7" cy="-2" r="3.5" fill="#0a0918"/>
+      <rect x="-2" y="-24" width="4" height="10" fill="url(#g1)"/><circle cy="-26" r="4" fill="#e100ff" class="pulse"/>
+    </g>
+    <text x="40" y="160" class="t" font-size="24" font-weight="800" fill="#fff">AI Automation</text>
+    <text x="40" y="186" class="m" font-size="13" fill="#b9a6ff">NaulX · for startups worldwide</text>
+    <g class="t" font-size="15" fill="#c9cbe6">
+      <text x="40" y="222">▹ Lead capture &amp; AI qualification</text>
+      <text x="40" y="248">▹ Telegram / WhatsApp / Discord bots</text>
+      <text x="40" y="274">▹ n8n workflows &amp; CRM sync</text>
+      <text x="40" y="300">▹ Self-healing webhooks</text>
+    </g>
+  </g>
+
+  <!-- CARD 2 -->
+  <g class="card d2">
+    <circle cx="530" cy="90" r="50" fill="#00d4ff" opacity=".3" filter="url(#glow)"/>
+    <rect x="415" y="10" width="370" height="310" rx="20" fill="url(#card)" stroke="#ffffff" stroke-opacity=".08"/>
+    <rect x="415" y="10" width="370" height="310" rx="20" fill="none" stroke="url(#g2)" stroke-width="2" class="border" style="animation-delay:-2s"/>
+    <g transform="translate(475 80)">
+      <circle r="34" fill="none" stroke="url(#g2)" stroke-width="2" stroke-dasharray="8 6" class="spin"/>
+      <path d="M-14 -10 L-24 0 L-14 10 M14 -10 L24 0 L14 10 M6 -16 L-6 16" fill="none" stroke="url(#g2)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+    </g>
+    <text x="445" y="160" class="t" font-size="24" font-weight="800" fill="#fff">AI Skills &amp; Agents</text>
+    <text x="445" y="186" class="m" font-size="13" fill="#9fe9ff">Claude · MCP · LLM pipelines</text>
+    <g class="t" font-size="15" fill="#c9cbe6">
+      <text x="445" y="222">▹ Custom Claude Skills &amp; plugins</text>
+      <text x="445" y="248">▹ MCP connectors &amp; tool agents</text>
+      <text x="445" y="274">▹ Content, ad-copy &amp; research agents</text>
+      <text x="445" y="300">▹ Prompt systems that ship</text>
+    </g>
+  </g>
+
+  <!-- CARD 3 -->
+  <g class="card d3">
+    <circle cx="935" cy="90" r="50" fill="#00e5a0" opacity=".28" filter="url(#glow)"/>
+    <rect x="820" y="10" width="370" height="310" rx="20" fill="url(#card)" stroke="#ffffff" stroke-opacity=".08"/>
+    <rect x="820" y="10" width="370" height="310" rx="20" fill="none" stroke="url(#g3)" stroke-width="2" class="border" style="animation-delay:-4s"/>
+    <g transform="translate(880 80)">
+      <circle r="34" fill="none" stroke="url(#g3)" stroke-width="2" stroke-dasharray="8 6" class="spin"/>
+      <polyline points="-20,12 -8,0 2,6 20,-14" fill="none" stroke="url(#g3)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="60" stroke-dashoffset="60">
+        <animate attributeName="stroke-dashoffset" values="60;0;0;60" keyTimes="0;.4;.8;1" dur="3s" repeatCount="indefinite"/>
+      </polyline>
+      <path d="M12 -14 L20 -14 L20 -6" fill="none" stroke="#f7c948" stroke-width="4" stroke-linecap="round"/>
+    </g>
+    <text x="850" y="160" class="t" font-size="24" font-weight="800" fill="#fff">Crypto Signals</text>
+    <text x="850" y="186" class="m" font-size="13" fill="#a8ffd9">BTC · Alts · XAUUSD</text>
+    <g class="t" font-size="15" fill="#c9cbe6">
+      <text x="850" y="222">▹ Futures &amp; spot trade setups</text>
+      <text x="850" y="248">▹ Custom Pine v6 indicators</text>
+      <text x="850" y="274">▹ Multi-TF screeners &amp; alerts</text>
+      <text x="850" y="300">▹ ProfitWave signals app</text>
+    </g>
+  </g>
+</svg>
